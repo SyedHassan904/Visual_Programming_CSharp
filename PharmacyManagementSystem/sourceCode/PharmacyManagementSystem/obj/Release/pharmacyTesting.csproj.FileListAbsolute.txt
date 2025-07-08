@@ -1,0 +1,12 @@
+D:\C#\pharmacyTesting\pharmacyTesting\bin\Release\pharmacyTesting.exe.config
+D:\C#\pharmacyTesting\pharmacyTesting\bin\Release\pharmacyTesting.exe
+D:\C#\pharmacyTesting\pharmacyTesting\bin\Release\pharmacyTesting.pdb
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.csproj.AssemblyReference.cache
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.Form1.resources
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.DashBoardForm.resources
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.UserDashBoard.resources
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.Properties.Resources.resources
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.csproj.GenerateResource.cache
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.csproj.CoreCompileInputs.cache
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.exe
+D:\C#\pharmacyTesting\pharmacyTesting\obj\Release\pharmacyTesting.pdb
