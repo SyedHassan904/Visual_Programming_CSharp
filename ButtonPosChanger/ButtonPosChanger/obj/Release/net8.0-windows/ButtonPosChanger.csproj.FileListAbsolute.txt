@@ -1,0 +1,16 @@
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\bin\Release\net8.0-windows\ButtonPosChanger.exe
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\bin\Release\net8.0-windows\ButtonPosChanger.deps.json
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\bin\Release\net8.0-windows\ButtonPosChanger.runtimeconfig.json
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\bin\Release\net8.0-windows\ButtonPosChanger.dll
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\bin\Release\net8.0-windows\ButtonPosChanger.pdb
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.Form1.resources
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.csproj.GenerateResource.cache
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.AssemblyInfoInputs.cache
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.AssemblyInfo.cs
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.csproj.CoreCompileInputs.cache
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.dll
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\refint\ButtonPosChanger.dll
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.pdb
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ButtonPosChanger.genruntimeconfig.cache
+D:\sem#4\study\CS412(vp)\C#\ButtonPosChanger\ButtonPosChanger\obj\Release\net8.0-windows\ref\ButtonPosChanger.dll
