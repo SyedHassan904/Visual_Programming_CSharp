@@ -1,0 +1,17 @@
+D:\C#\imgEditor\imgEditor\bin\Debug\net8.0-windows\imgEditor.exe
+D:\C#\imgEditor\imgEditor\bin\Debug\net8.0-windows\imgEditor.deps.json
+D:\C#\imgEditor\imgEditor\bin\Debug\net8.0-windows\imgEditor.runtimeconfig.json
+D:\C#\imgEditor\imgEditor\bin\Debug\net8.0-windows\imgEditor.dll
+D:\C#\imgEditor\imgEditor\bin\Debug\net8.0-windows\imgEditor.pdb
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.Form1.resources
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.Properties.Resources.resources
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.csproj.GenerateResource.cache
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.AssemblyInfoInputs.cache
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.AssemblyInfo.cs
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.csproj.CoreCompileInputs.cache
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.dll
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\refint\imgEditor.dll
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.pdb
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\imgEditor.genruntimeconfig.cache
+D:\C#\imgEditor\imgEditor\obj\Debug\net8.0-windows\ref\imgEditor.dll
